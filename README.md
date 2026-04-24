@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 
 
-Log Output Explanation
+## Log Output Explanation
 
 The log output provides a detailed trace of the pipeline execution from start to finish:
 
